@@ -24,4 +24,4 @@ A default IIS installation with ASP comes with certain pre-enabled HTTP handlers
 Some of these can be abused to execute code on the server-side, such as webshells. 
 | Extension     | Webshell sample| Post |
 | ------------- | -------------  | -------------  |
-| .soap         | [a relative link](soapshell.soap) | https://red.0xbad53c.com/red-team-operations/initial-access/webshells/iis-soap |
+| .soap         | [soapshell.soap](soapshell.soap) | https://red.0xbad53c.com/red-team-operations/initial-access/webshells/iis-soap |
