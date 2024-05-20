@@ -48,7 +48,7 @@ for (;;) {
 
 final Map<String, byte[]> finalMap = map;
 // Defining a custom URLStreamHandler to load classes from memory
-URL u = new URL("x-buffer", null, -1, "/", new URLStreamHandler() {
+URL u = new URL("87c30278b52d957fc722ca030e020b726f40be2c", null, -1, "/", new URLStreamHandler() {
     protected URLConnection openConnection(URL u) throws IOException {
         final byte[] data = finalMap.get(u.getFile());
         if (data == null)
