@@ -25,3 +25,4 @@ Some of these can be abused to execute code on the server-side, such as webshell
 | Extension     | Webshell sample| Post |
 | ------------- | -------------  | -------------  |
 | .soap         | [soapshell.soap](soapshell.soap) | https://red.0xbad53c.com/red-team-operations/initial-access/webshells/iis-soap |
+| .aspx         | [createthread.aspx](createthread.aspx) | N/A |
